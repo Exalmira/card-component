@@ -80,13 +80,13 @@ line-height: 1.5rem;
  
   
 }
-.col-right-price ul:nth-child(1){
+.col-right-price div:nth-child(1){
  color: var(--Dark-cyan);
  font-family: 'Fraunces', serif;
  font-size: 30px;
  font-weight: 700;
 }
-.col-right-price ul:nth-child(2){
+.col-right-price div:nth-child(2){
   font-size: 12px;
   text-decoration: line-through;
  margin-left: 1rem;
